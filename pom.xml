@@ -9,7 +9,7 @@
 
     <groupId>org.hspconsortium.reference</groupId>
     <artifactId>hspc-reference-auth-security</artifactId>
-    <version>0.9-SNAPSHOT</version>
+    <version>0.9</version>
     <packaging>jar</packaging>
 
     <name>Reference Auth - Security</name>
@@ -131,4 +131,8 @@
             </plugin>
         </plugins>
     </build>
+
+  <scm>
+    <tag>hspc-reference-auth-security-0.9</tag>
+  </scm>
 </project>
