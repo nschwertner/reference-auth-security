@@ -8,7 +8,7 @@
     </parent>
 
     <groupId>org.hspconsortium.reference</groupId>
-    <artifactId>hspc-reference-security</artifactId>
+    <artifactId>hspc-reference-auth-security</artifactId>
     <version>0.9-SNAPSHOT</version>
     <packaging>jar</packaging>
 
