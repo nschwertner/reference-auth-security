@@ -139,7 +139,4 @@
         </plugins>
     </build>
 
-  <scm>
-    <tag>hspc-reference-auth-security-0.9</tag>
-  </scm>
 </project>
