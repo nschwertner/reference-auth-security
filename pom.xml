@@ -16,6 +16,13 @@
     <description>Libraries for creating an HSPC compliant launch context</description>
     <url>https://healthservices.atlassian.net/wiki/display/HSPC/Healthcare+Services+Platform+Consortium</url>
 
+    <scm>
+        <connection>scm:git:ssh://git@bitbucket.org/hspconsortium/reference-auth-security.git</connection>
+        <developerConnection>scm:git:ssh://git@bitbucket.org/hspconsortium/reference-auth-security.git</developerConnection>
+        <url>https://bitbucket.org/hspconsortium/reference-auth-security.git</url>
+        <tag>HEAD</tag>
+    </scm>
+
     <properties>
         <java.version>1.7</java.version>
         <mitreid.springframework.security.version>3.2.7.RELEASE</mitreid.springframework.security.version>
